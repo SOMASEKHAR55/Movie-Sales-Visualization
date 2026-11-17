@@ -32,3 +32,7 @@ Download the Power BI dashboard file from this repository:
 Soma Sekhar Veerla
 
 GitHub: https://github.com/SOMASEKHAR55
+
+## Dashboard Preview
+
+![Movie Sales Visualization Dashboard](Movie_sales_vis_dashboard.png)
